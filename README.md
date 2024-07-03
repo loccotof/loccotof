@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @loccotof 
-- 👀 I’m interested in Cybersecurity..
-- 🌱 I’m currently learning with Coding Temple
-- 💞️ I’m looking to collaborate on Network security,Risk assessment, penetration test etc..
-- 📫 How to reach me (loccotof1@yahoo.co.uk)
+- 👋 Hi, I’m OLALEKAN AKINADE 
+- 👀 I’m a Cybersecurity Analyst
+- 🌱 I’m an Alumni of Coding Temple
+- 💞️ I’m looking to collaborate on Network security,Risk assessment, penetration test..
+- 📫 How to reach me (loccotof@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
